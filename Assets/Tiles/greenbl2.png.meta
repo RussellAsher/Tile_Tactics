@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 83a232db270cacf48b3ebeb8951c2858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5862196018075143490
+    second: greenbl2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenbl2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2fbe2e7cb45aea0800000000000000
+      internalID: -5862196018075143490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0c29c645a8824eba487cb28349697
+      internalID: -780286191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b7dba31767a8459637dc774bb8c66
+      internalID: -2144089472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95965cfcd118f124d86f5bccb9747735
+      internalID: 345626154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5aa7b1dd5f6464385f09bf6ac35ac5
+      internalID: 486412216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3cbfba61b95834aa3cbc292006f73a
+      internalID: -1520686381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e959c3def1017a4ab01c484be7940c4
+      internalID: -1068272161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327f2b66616d3e4ab8d26c78536c29c
+      internalID: -395404167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28449f8c65c27499ffad625d7b3962
+      internalID: -613311415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5e7403cd520a40a50d70c682db3bf
+      internalID: -605662067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9ab6b01480364eb8a3102be6b5585
+      internalID: 1231340631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f040db06a1db74487d8e03b0bf113f
+      internalID: -1399826076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbl2_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      physicsShape:
+      - - {x: 0, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e34e61988f5d44be2e7b3fd7140e6
+      internalID: 1487944704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50ef40ad220957847a68140a9655d97e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":3,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      greenbl2_0: -5862196018075143490
+      greenbl2_1: -780286191
+      greenbl2_10: 1231340631
+      greenbl2_11: -1399826076
+      greenbl2_12: 1487944704
+      greenbl2_2: -2144089472
+      greenbl2_3: 345626154
+      greenbl2_4: 486412216
+      greenbl2_5: -1520686381
+      greenbl2_6: -1068272161
+      greenbl2_7: -395404167
+      greenbl2_8: -613311415
+      greenbl2_9: -605662067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
